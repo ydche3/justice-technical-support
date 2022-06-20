@@ -57,7 +57,7 @@
 
 1. 报名请填写[技术支持部义工招募报名表](https://forms.office.com/Pages/ResponsePage.aspx?id=4Uh6bzD64km0_rhyxg_BFZlvLF_3ORVCinceNYW-ieVUQ0kxUktTRVBRRFBMSlpOMlk2MFBYNDJBOC4u)。
 1. 相关问题可通过Discord私信，向技术支持部负责人`@不屈之鹰#0964`或架构师`@澈澈澈#1106`咨询。
-1. 更多详情参阅[正义农场技术支持部]()。
+1. 更多详情参阅[正义农场技术支持部](README.md)。
 
 -----
 
