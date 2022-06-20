@@ -1,6 +1,6 @@
 # Summary
 
-- [主页](README.md)
+- [简介](README.md)
 - [最新动态](news/README.md)
 	- [义工招募令](news/volunteer-recruitment-order.md)
 
