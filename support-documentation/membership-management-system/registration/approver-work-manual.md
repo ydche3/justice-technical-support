@@ -18,13 +18,13 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 ![fig1](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams.png)
 
-点击左侧应用栏上“Activity(活动)”应用：
+点击左侧应用栏上***Activity(活动)***应用：
 
 ![fig2](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-activity_000.png)
 
-> 每当有申请需要进行审批，都会在“Activity(活动)”中显示通知。
+> 每当有申请需要进行审批，都会在***Activity(活动)***中显示通知。
 
-点击审批请求，可以查看审批的操作页面：
+点击**审批请求**，可以查看审批的操作页面：
 
 ![fgi3](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-activity-approval.png)
 
@@ -44,43 +44,45 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 > 以上两处链接均可打开会员申请的详情页。
 
+
 打开的申请详情页如下：
 
 ![fig7](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/sharepoint-applivation-detail.png)
 
-将该页面划至底部，点击附件链接可查看凭证：
+将该页面划至**底部**，点击附件链接可查看凭证：
 
 ![fig8](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/sharepoint-applivation-detail-attachments.png)
 
-返回审批操作页面，点击“Approve”以通过该申请：
+返回审批操作页面，点击***Approve***以通过该申请：
 
 ![fig9](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/sharepoint-applivation-detail-approve.png)
 
-或者点击“Reject”以拒绝该申请：
+或者点击***Reject***以拒绝该申请：
 
 ![fig10](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-activity-approval-reject_000.png)
 
-> 请在“Comments”栏中填入拒绝的原因，系统将反馈给申请人。
+> 请在***Comments***栏中填入拒绝的原因，系统将反馈给申请人。
 
-点击“Approve”或“Reject”后，系统自动跳转至如下页面，表示该审批操作已完成：
+
+点击***Approve***或***Reject***后，系统自动跳转至如下页面，表示该审批操作已完成：
 
 ![fig11](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-activity-approval-status.png)
 
-> 在此页面可查看收到的所有申请，其中状态为***Approved***的申请即为已通过，状态为***Rejected***即为拒绝，状态为***Request***即为尚未处理的申请。
+> 在此页面可查看收到的所有申请，其中状态为***Approved***的申请即为已通过，状态为***Rejected***即为拒绝，状态为***Requested***即为尚未处理的申请。
 
 ### 查看所有审批请求
 
-除了在“Activity(活动)”中通过通知查看审批申请，审批员也可以**主动**在“Approvals(审批)”应用中**查看所有申请**。操作步骤如下：
+除了在***Activity(活动)***中通过通知查看审批申请，审批员也可以**主动**在***Approvals(审批)***应用中**查看所有申请**。操作步骤如下：
 
-点击左侧应用栏上“更多”，即三个小点的图标：
+点击左侧应用栏上***More Apps(更多应用)***，即三个小点的图标：
 
 ![fig12](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-more-apps_000.png)
 
-点击“Approval”应用：
+点击***Approval***应用：
 
 ![fig13](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-approval.png)
 
-进入“Approvals”应用界面后，可以查看所有审批记录：
+进入***Approvals***应用界面后，可以查看所有审批记录：
 
 ![fig14](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-more-apps-approvals-received.png)
 
@@ -94,23 +96,23 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 我们在Teams应用中提供了**快速查看**会员列表的途径，方法如下。
 
-点击左侧应用栏中“Teams”应用：
+点击左侧应用栏中***Teams***应用：
 
 ![fig16](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-teams.png)
 
-点击“Feube SA”：
+点击***Feube SA***：
 
 ![fig17](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-teams-feubesa.png)
 
-点击“会员注册”，进入会员注册工作组：
+点击***会员注册***，进入会员注册工作组：
 
 ![fig18](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-teams-feubesa-channel.png)
 
-点击上方页面栏中的“会员列表”或“3 more”：
+点击上方页面栏中的***会员列表***或***3 more***：
 
 ![fig19](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-teams-feubesa-channel-more.png)
 
-点击“会员列表”即可查看所有会员列表：
+点击****会员列表***即可查看所有会员列表：
 
 ![fig20](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-teams-feubesa-channel-more-list.png)
 
@@ -118,7 +120,7 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 会员列表可以进行**倒叙排列**，以便快速查看**新增**的会员。操作如下。
 
-在会员列表中，点击“Title”并选择“Z to A”即可实现倒叙排列：
+在会员列表中，点击***Title***并选择***Z to A***即可实现倒叙排列：
 
 ![fig21](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-teams-feubesa-channel-more-list-z2a.png)
 
@@ -130,7 +132,7 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 我们同样在Teams应用中提供**快速浏览本文档**的途径。
 
-在***Feube SA***下***会员注册***工作组中，与查看会员列表的方法相同，在上访页面栏中找到“审批员工作手册”即可。
+在***Feube SA***下***会员注册***工作组中，与查看会员列表的方法相同，在上访页面栏中找到***审批员工作手册***即可。
 
 ### 在Teams应用中联系支持人员 {#link1}
 
