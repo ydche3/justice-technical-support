@@ -18,11 +18,11 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 ![fig1](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams.png)
 
-点击左侧应用栏上“Activity(活动)”应用：
+点击左侧应用栏上***Activity***应用：
 
 ![fig2](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-activity_000.png)
 
-> 每当有申请需要进行审批，都会在“Activity(活动)”中显示通知。
+> 每当有申请需要进行审批，都会在***Activity***中显示通知。
 
 点击**审批请求**，可以查看审批的操作页面：
 
@@ -72,7 +72,7 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 ### 查看所有审批请求
 
-除了在“Activity(活动)”中通过通知查看审批申请，审批员也可以主动在“Approvals(审批)”应用中查看所有申请。操作步骤如下：
+除了在***Activity***中通过通知查看审批申请，审批员也可以主动在***Approvals***应用中查看所有申请。操作步骤如下：
 
 点击左侧应用栏上***More Apps(更多应用)***，即三个小点的图标：
 
