@@ -26,7 +26,7 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 点击审批请求，可以查看审批的操作页面：
 
-![fgi3](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-actvity-approval.png)
+![fgi3](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-activity-approval.png)
 
 审批员通过操作页面的中央窗口浏览审批的信息：
 
@@ -36,25 +36,25 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 链接一：
 
-![fig5](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-activity-approval-detail-link)
+![fig5](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-activity-approval-detail-link.png)
 
 链接二：
 
-![fig6](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-activity-approval-attachments.png)
+![fig6](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-activity-approval-detail-attachment.png)
 
 > 以上两处链接均可打开会员申请的详情页。
 
 打开的申请详情页如下：
 
-![fig7](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/sharepoint-application-detail.png)
+![fig7](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/sharepoint-applivation-detail.png)
 
 将该页面划至底部，点击附件链接可查看凭证：
 
-![fig8](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/sharepoint-application-detail-attachments.png)
+![fig8](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/sharepoint-applivation-detail-attachments.png)
 
 返回审批操作页面，点击“Approve”以通过该申请：
 
-![fig9](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/sharepoint-application-detail-approve.png)
+![fig9](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/sharepoint-applivation-detail-approve.png)
 
 或者点击“Reject”以拒绝该申请：
 
@@ -66,11 +66,11 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 ![fig11](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-activity-approval-status.png)
 
-> 在此页面可查看收到的所有申请，其中状态为“Approved”的申请即为已通过，状态为“Rejected”即为拒绝，状态为“Request”即为尚未处理的申请。
+> 在此页面可查看收到的所有申请，其中状态为***Approved***的申请即为已通过，状态为***Rejected***即为拒绝，状态为***Request***即为尚未处理的申请。
 
 ### 查看所有审批请求
 
-除了在“Activity(活动)”中通过通知查看审批申请，审批员也可以主动在“Approvals(审批)”应用中查看所有申请。操作步骤如下：
+除了在“Activity(活动)”中通过通知查看审批申请，审批员也可以**主动**在“Approvals(审批)”应用中**查看所有申请**。操作步骤如下：
 
 点击左侧应用栏上“更多”，即三个小点的图标：
 
@@ -114,9 +114,9 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 ![fig20](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-teams-feubesa-channel-more-list.png)
 
-#### 倒叙排列
+#### 倒叙排列功能
 
-会员列表可以进行倒叙排列，以便快速查看**新增**的会员。操作如下。
+会员列表可以进行**倒叙排列**，以便快速查看**新增**的会员。操作如下。
 
 在会员列表中，点击“Title”并选择“Z to A”即可实现倒叙排列：
 
@@ -128,14 +128,16 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 ### 在Teams应用中查看本文档
 
-我们同样在Teams应用中提供快速浏览本文档的途径。
+我们同样在Teams应用中提供**快速浏览本文档**的途径。
 
-在*Feube SA*下*会员注册*工作组中，与查看会员列表的方法相同，在上访页面栏中找到“审批员工作手册”即可。
+在***Feube SA***下***会员注册***工作组中，与查看会员列表的方法相同，在上访页面栏中找到“审批员工作手册”即可。
 
-### 在Teams应用中联系支持人员 {#联系支持人员}
+### 在Teams应用中联系支持人员 {#link1}
 
-审批员操作过程中有任何问题，可在*Feube SA*团队下的*会员注册*工作组直接联系支持人员。
+审批员操作过程中有任何问题，可在***Feube SA***团队下的*会员注册*工作组直接联系支持人员。
 
 ## 异常处理
 
-当前注册系统的异常将由申请人主动向 农场办公室技术助理#8148 反馈，若审批员于操作过程中发生异常情况，请[与支持人员联系](#联系支持人员)。
+当前注册系统的异常将由申请人主动向**`农场办公室技术助理#8148`**反馈。
+
+若审批员于操作过程中发生异常情况，请[在Teams应用中联系支持人员](#link1)。
