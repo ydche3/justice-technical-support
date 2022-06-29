@@ -116,15 +116,15 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 ![fig20](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-teams-feubesa-channel-more-list.png)
 
-#### 倒叙排列功能
+#### 降序排列功能
 
-会员列表可以进行**倒叙排列**，以便快速查看**新增**的会员。操作如下。
+会员列表可以进行**降序排列**，以便快速查看**新增**的会员。操作如下。
 
-在会员列表中，点击***Title***并选择***Z to A***即可实现倒叙排列：
+在会员列表中，点击***Title***并选择***Z to A***即可实现降序排列：
 
 ![fig21](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-teams-feubesa-channel-more-list-z2a.png)
 
-倒叙排列的会员列表如下：
+降序排列的会员列表如下：
 
 ![fig22](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-teams-feubesa-channel-more-list-z2a-new.png)
 
