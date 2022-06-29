@@ -3,6 +3,7 @@
 - [简介](README.md)
 - [公告 | 最新动态](news/README.md)
 	- [义工招募令](news/volunteer-recruitment-order.md)
+- [部门简介](department-overview.md)
 
 ### Support
 
