@@ -122,7 +122,7 @@ Teams应用的Web端[点此登录](https://teams.microsoft.com/)。
 
 在会员列表中，点击***Title***并选择***Z to A***即可实现降序排列：
 
-![fig21](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-teams-feubesa-channel-more-list-z2a.png)
+![fig21](https://raw.githubusercontent.com/ydche3/fwork-graph-bed/main/teams-teams-feubesa-channel-more-list-z2a)
 
 降序排列的会员列表如下：
 
