@@ -12,9 +12,7 @@
 ------
 
 - [会员管理系统](support-documentation/membership-management-system/README.md)
-- [会员申请](support-documentation/membership-management-system/registration/README.md)
-	- [审批员工作手册](support-documentation/membership-management-system/registration/approver-work-manual.md)
-	- [会员申请指引](support-documentation/membership-management-system/registration/application-guide.md)
+- [审批员工作手册](support-documentation/membership-management-system/registration/approver-work-manual.md)
 -------
 
 
